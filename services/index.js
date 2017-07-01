@@ -1,7 +1,7 @@
 'use strict'
 
 const jwt = require('jwt-simple')
-const momento = require('moment')
+const moment = require('moment')
 const config = require('../config')
 
 function createToken (user) {
