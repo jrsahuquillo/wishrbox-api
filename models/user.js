@@ -11,11 +11,6 @@ const UserSchema = new Schema({
     unique: true,
     lowercase: true
   },
-  // userName: {
-  //   type: String,
-  //   unique: true,
-  //   lowercase: true
-  // },
   displayName: String,
   avatar: String,
   password: {

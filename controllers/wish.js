@@ -69,5 +69,5 @@ module.exports = {
   getWishes,
   saveWish,
   updateWish,
-  deleteWish,
+  deleteWish
 }
